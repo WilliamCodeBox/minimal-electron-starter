@@ -4,8 +4,6 @@ A minimal electron starter template
 
 # How to Use
 
-## With `git` History
-
 (1) Download this template by
 
 - with `git` history
