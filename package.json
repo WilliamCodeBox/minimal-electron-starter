@@ -1,0 +1,12 @@
+{
+  "name": "minimal-electron-starter",
+  "version": "1.0.0",
+  "description": "A minimal electron starter template",
+  "main": "main.js",
+  "repository": "https://github.com/WilliamCodeBox/minimal-electron-starter",
+  "author": "William <codequote@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^17.1.2"
+  }
+}
