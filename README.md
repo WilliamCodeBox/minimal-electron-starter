@@ -15,7 +15,7 @@ git clone https://github.com/WilliamCodeBox/minimal-electron-starter.git <name-o
 - or without `git` history
 
 ```bash
-degit WilliamCodeBox/minimal-electron-starter electron-starter <name-of-your-project>
+degit WilliamCodeBox/minimal-electron-starter <name-of-your-project>
 ```
 
 (2) install the dependencies
